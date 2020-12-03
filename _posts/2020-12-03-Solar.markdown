@@ -1,0 +1,12 @@
+---
+layout: post
+title: Innovation in Solar Energy
+description:  # Add post description (optional)
+# Add image post (optional)
+tags: [Mechanical, Solar Energy] # add tag
+img : /ppt-img/IITJMU/Slide1.jpg
+---
+
+{% for i in (1..24) %}
+  <img src="{{site.baseurl}}/assets/ppt-img/IITJMU/Slide{{i}}.jpg"/>
+{% endfor %}

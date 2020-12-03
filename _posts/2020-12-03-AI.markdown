@@ -1,0 +1,13 @@
+---
+layout: post
+title: Science of Learning and Artificial Intelligence
+description:  # Add post description (optional)
+# Add image post (optional)
+tags: [AI, Cognitive Scince] # add tag
+img : /ppt-img/AI/Slide1.jpg
+---
+
+
+{% for i in (1..37) %}
+  <img src="{{site.baseurl}}/assets/ppt-img/Laser_annealing/Slide{{i}}.jpg"/>
+{% endfor %}
