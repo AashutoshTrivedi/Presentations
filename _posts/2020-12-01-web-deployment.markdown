@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Web Deployment
-description:  # Add post description (optional)
+description: This presentation contains web deployment. # Add post description (optional)
 # Add image post (optional)
 tags: [tools, Data Science] # add tag
 img: /ppt-img/w/Slide1.jpg

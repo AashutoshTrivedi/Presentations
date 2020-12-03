@@ -8,14 +8,10 @@ baseurl: "/Presentations" # the subpath of your site, e.g. /blog
 url: "https://github.com/AashutoshTrivedi" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
-collections:
-  index:
-    output: true
-
 # Author Settings
 author: Presentations # add your name
 author-img: aashu.jpg # add your photo
-about-author: I am a data science and Machine Learning enthusiast focusing on mathematical as well as hands on learning. Always hungry to keep learning. # add description
+about-author: This blog repository/website contains the presentations created and delivered by me at various event. # add description
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
 social-github: AashutoshTrivedi # add your Github handle
@@ -35,7 +31,7 @@ plugins:
   - jekyll-paginate
   - jemoji
 
-paginate: 8
+paginate: 20
 paginate_path: "/page/:num"
 
 exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
