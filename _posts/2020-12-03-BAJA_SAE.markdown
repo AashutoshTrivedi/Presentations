@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Baja Car Sales
-description:  # Add post description (optional)
+description: Sales presentation for stakeholders to make them understand the business and financials for successful operation of our car manufacturing company. # Add post description (optional)
 # Add image post (optional)
 tags: [tools, Data Science] # add tag
 img : /ppt-img/BAJA_SAE/Slide1.jpg

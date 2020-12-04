@@ -21,14 +21,6 @@
 <lastmod>2020-12-03T00:00:00+05:30</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/Presentations/E-bike-Design/</loc>
-<lastmod>2020-12-03T00:00:00+05:30</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/Presentations/How-do-brain-learns/</loc>
-<lastmod>2020-12-03T00:00:00+05:30</lastmod>
-</url>
-<url>
 <loc>http://localhost:4000/Presentations/Hyperparametertuning/</loc>
 <lastmod>2020-12-03T00:00:00+05:30</lastmod>
 </url>
@@ -55,6 +47,10 @@
 <url>
 <loc>http://localhost:4000/Presentations/Solar/</loc>
 <lastmod>2020-12-03T00:00:00+05:30</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/Presentations/E-bike-Design/</loc>
+<lastmod>2020-12-04T00:00:00+05:30</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/Presentations/</loc>

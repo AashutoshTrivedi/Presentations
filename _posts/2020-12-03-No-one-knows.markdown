@@ -1,8 +1,10 @@
 ---
 layout: post
 title: Questions no one knows answer to!
-description:  # Add post description (optional)
-# Add image post (optional)
+description:  "Humans are born curious and we have been constantly feeding our curiosity by
+understanding and exploring the mother nature. Still there are questions which
+we are struggling to find the answers."
+
 tags: [tools, Data Science] # add tag
 img : /ppt-img/CSN300/Slide1.jpg
 ---

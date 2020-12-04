@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Innovation in Solar Energy
-description:  # Add post description (optional)
+title: Innovation in Solar Technology
+description: An innovative approach towards reduction in space utilization by solar plants by using solar trees with an ultimate aim of reducing carbon footprints at IIT Jammu campus.  # Add post description (optional)
 # Add image post (optional)
 tags: [Mechanical, Solar Energy] # add tag
-img : /ppt-img/IITJMU/Slide1.jpg
+img : /ppt-img/IITJMU/Slide2.jpg
 ---
 
 {% for i in (1..24) %}

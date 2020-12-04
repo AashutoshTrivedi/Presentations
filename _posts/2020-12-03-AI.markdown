@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Science of Learning and Artificial Intelligence
-description:  # Add post description (optional)
+description:  "Have you ever wondered how our brain learns and stores information? Or whether AI will help in understanding of our brain and human body better or whether our brain and anatomy will help AI to progress more, or is there a trade off on this?? Check this out to find out" # Add post description (optional)
 # Add image post (optional)
 tags: [AI, Cognitive Scince] # add tag
 img : /ppt-img/AI/Slide1.jpg
@@ -9,5 +9,5 @@ img : /ppt-img/AI/Slide1.jpg
 
 
 {% for i in (1..37) %}
-  <img src="{{site.baseurl}}/assets/ppt-img/Laser_annealing/Slide{{i}}.jpg"/>
+  <img src="{{site.baseurl}}/assets/ppt-img/AI/Slide{{i}}.jpg"/>
 {% endfor %}

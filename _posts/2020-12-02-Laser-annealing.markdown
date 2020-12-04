@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Laser Annealing
-description:  # Add post description (optional)
+description: Understanding the technology behind laser annealing process and it's applications in various industries including semiconductor and display industry. # Add post description (optional)
 # Add image post (optional)
 tags: [Mechanical , Semiconductor] # add tag
-img : /ppt-img/Laser_annealing/Slide1.jpg
+img : /ppt-img/Laser_annealing/Slide4.jpg
 ---
 
 

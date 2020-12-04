@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Optimization Case Study
-description:  # Add post description (optional)
+title: Linear Problem Optimization
+description:  A case study on formulating and optimizing a real world linear programming problem # Add post description (optional)
 # Add image post (optional)
 tags: [Mechanical, Solar Energy] # add tag
 img : /ppt-img/OR_casestudy/Slide1.jpg
 ---
 
-{% for i in (1..24) %}
+{% for i in (1..15) %}
   <img src="{{site.baseurl}}/assets/ppt-img/OR_casestudy/Slide{{i}}.jpg"/>
 {% endfor %}
